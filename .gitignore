@@ -1,0 +1,13 @@
+# Ignorar a pasta oculta de cache do Godot 4
+.godot/
+
+# Ignorar arquivos inúteis gerados pelo Windows/Mac
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignorar as versões finais exportadas do jogo)
+*.exe
+*.apk
+*.pck
+*.zip
