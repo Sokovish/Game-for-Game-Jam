@@ -1,5 +1,6 @@
 # Ignorar a pasta oculta de cache do Godot 4
 .godot/
+/android/
 
 # Ignorar arquivos inúteis gerados pelo Windows/Mac
 .DS_Store
